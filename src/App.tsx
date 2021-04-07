@@ -7,7 +7,7 @@ color: green;
 export function App() {
   return (
     <div className="App">
-      <Title>Hello Word</Title>
+      <Title>Hello</Title>
     </div>
   );
 }
